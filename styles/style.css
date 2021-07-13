@@ -27,7 +27,7 @@ main{
     display: grid;
     /* grid-template-columns: 1fr 1fr 1fr; */
     grid-template-columns: repeat(3, 1fr);
-    grid-row-gap: 20px;
+    grid-row-gap: 30px;
 }
 .player{
     display: flex;
@@ -49,7 +49,7 @@ hr{
 .blogs{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-row-gap: ;
+    grid-row-gap: 15px;
 }
 .blog{
     display: flex;
